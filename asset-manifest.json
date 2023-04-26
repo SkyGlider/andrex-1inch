@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0ad0d373.css",
+    "main.js": "/static/js/main.70e96f17.js",
+    "index.html": "/index.html",
+    "static/media/eth.svg": "/static/media/eth.df265e367364f285053a1285ad8d418d.svg",
+    "static/media/andrex-logo.svg": "/static/media/andrex-logo.46c3a88e6b7c5f9516626d12e328bb4d.svg",
+    "main.0ad0d373.css.map": "/static/css/main.0ad0d373.css.map",
+    "main.70e96f17.js.map": "/static/js/main.70e96f17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ad0d373.css",
+    "static/js/main.70e96f17.js"
+  ]
+}
