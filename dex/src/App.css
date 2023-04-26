@@ -54,19 +54,19 @@ header {
 }
 
 .connectButton {
-  background-color: #243056; 
+  background-color: rgba(81, 38, 99, 1); 
   padding: 10px;
   padding-right: 20px;
   padding-left: 20px;
   border-radius: 100px;
-  color: #5981F3;
+  color: rgb(174, 117, 199);
   font-weight: bold;
   transition: 0.3s;
 }
 
 .connectButton:hover {
   cursor: pointer;
-  color: #3b4874
+  color: rgb(138, 72, 167)
 }
 
 .mainWindow {
