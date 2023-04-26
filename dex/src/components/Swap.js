@@ -83,7 +83,7 @@ function Swap(props) {
   }
 
   async function fetchPrices(one,two){
-    const res = await axios.get('http://localhost:3001/tokenPrice',{
+    const res = await axios.get('https://andrex-inch-backend.onrender.com/tokenPrice',{
       params: {addressOne:one, addressTwo:two}
     });
     setPrices(res.data);
