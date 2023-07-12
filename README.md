@@ -2,6 +2,9 @@
 
 Andrex is a DeFi Exchange running on 1inch aggregator and Moralis as data source. 
 
+## View
+
+View the DeFi Exchasnge at https://andrex-one.web.app/
 ## Usage
 
 1. Deploy backend
