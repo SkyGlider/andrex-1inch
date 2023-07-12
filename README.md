@@ -7,7 +7,8 @@ Andrex is a DeFi Exchange running on 1inch aggregator and Moralis as data source
 1. Deploy backend
 
 ```python
-node dexBack/index.js
+cd dexBack
+nom run start
 ```
 
 2. Deploy frontend
